@@ -2,7 +2,7 @@ Yoo, I'm Nihal
 
 CSE Student at BMSIT | Aspiring Software Engineer
 
-I'm a Computer Science student interested in software development, Linux, and understanding how things work under the hood. Currently learning, experimenting, and building my skills one project at a time.
+I'm a Computer Science student studying in BMS Institute of Technology interested in software development, Linux, and understanding how things work under the hood. Currently learning, experimenting, and building my skills one project at a time.
 
 # Interests
 
