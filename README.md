@@ -1,16 +1,18 @@
-## Hi there 👋
+Yoo, I'm Nihal 
 
-<!--
-**Butter-restart/Butter-restart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student at BMSIT | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in software development, Linux, and understanding how things work under the hood. Currently learning, experimenting, and building my skills one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests
+
+- Software Development
+- Linux & System Customization
+- Computer Hardware & Networking
+- AI and Emerging Technologies
+
+# Currently Working On
+
+- Strengthening my programming fundamentals
+- Exploring Linux and open-source software
+- Building personal projects and experimenting with new technologies
